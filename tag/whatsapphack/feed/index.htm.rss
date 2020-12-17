@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>WhatsAppHack &#8211; Imaginable World</title>
+	<atom:link href="https://imaginableworld.com/tag/whatsapphack/feed/" rel="self" type="application/rss+xml" />
+	<link>https://imaginableworld.com</link>
+	<description>The marketplace of cheap Apps &#38; Games</description>
+	<lastBuildDate>Thu, 30 Jul 2020 01:13:25 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.4</generator>
+
+<image>
+	<url>https://imaginableworld.com/wp-content/uploads/2020/07/cropped-icon-32x32.gif</url>
+	<title>WhatsAppHack &#8211; Imaginable World</title>
+	<link>https://imaginableworld.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>WhatsApp hack targets prominent politician &#8211; what you need to know</title>
+		<link>https://imaginableworld.com/whatsapp-hack-targets-prominent-politician-what-you-need-to-know/</link>
+					<comments>https://imaginableworld.com/whatsapp-hack-targets-prominent-politician-what-you-need-to-know/#respond</comments>
+		
+		<dc:creator><![CDATA[imaginableworld_admin]]></dc:creator>
+		<pubDate>Thu, 30 Jul 2020 01:13:23 +0000</pubDate>
+				<category><![CDATA[WhatsApp]]></category>
+		<category><![CDATA[Catalan]]></category>
+		<category><![CDATA[El Pais]]></category>
+		<category><![CDATA[WhatsAppHack]]></category>
+		<guid isPermaLink="false">https://imaginableworld.com/?p=198</guid>
+
+					<description><![CDATA[Catalan independence leader was part of 1,400 spyware attacks worldwide A leading Spanish politician who has campaigned for Catalan independence had his phone targeted by spyware in an incident seen as “domestic espionage”,&#160;according to the Guardian.&#160; Messaging app WhatsApp has written to Roger Torrent, the president of the Catalan regional parliament, to confirm he was the target [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Catalan independence leader was part of 1,400 spyware attacks worldwide</p>
+
+
+
+<p>A leading Spanish politician who has campaigned for Catalan independence had his phone targeted by spyware in an incident seen as “domestic espionage”,&nbsp;<a href="https://www.theguardian.com/technology/2020/jul/28/whatsapp-confirms-catalan-politicians-phone-was-target-of-2019-attack" target="_blank" rel="noreferrer noopener">according to the Guardian</a>.&nbsp;</p>
+
+
+
+<p>Messaging app <a href="https://www.tomsguide.com/us/pictures-story/528-whatsapp-how-to-user-guide.html">WhatsApp</a> has written to Roger Torrent, the president of the Catalan regional parliament, to confirm he was the target of a cyberattack that took place via the platform in mid-2019.</p>
+
+
+
+<h2 id="apparent-act-of-espionage-xa0">Apparent act of espionage&nbsp;</h2>
+
+
+
+<p>WhatsApp&#8217;s letter, which has been viewed by journalists at the Guardian and El Pais, claims that the attackers targeted Torrent in order to “gain unauthorized access to data and communications on the device”.</p>
+
+
+
+<p>Niamh Sweeney, director of public policy for Europe, the Middle East and Asia at WhatsApp, explained in the letter that attackers, possibly working at the behest of the Spanish national government, used the messaging platform to spy on Torrent’s phone without him knowing. </p>
+
+
+
+<p>She wrote: “By ‘targeted’ we are referring to the fact that the attackers attempted to inject malicious code into Mr Torrent’s WhatsApp application.</p>
+
+
+
+<p>“Based on the information available to us, we are not in a position to confirm whether Mr Torrent’s device was compromised as this could only be achieved through an exhaustive forensic analysis of the device.&#8221;</p>
+
+
+
+<h2 id="a-wider-attack">A wider attack</h2>
+
+
+
+<p>Sweeney explained that the Catalan nationalist politician was among 1,400 WhatsApp users across the world targeted by spyware in 2019, including government officials, diplomatic professionals, reporters, and human rights campaigners in many countries. </p>
+
+
+
+<p>In all cases, the various perpetrators are believed to have used spyware manufactured and sold to governments by Israeli cybersecurity firm NSO Group. The firm hasn’t issued a comment on the incident, according to the Guardian.&nbsp;</p>
+
+
+
+<p>The WhatsApp flaw exploited by the NSO Group spyware was patched on May 13, 2019.</p>
+
+
+
+<p>Two other members of the Catalan independence movement were targeted in the WhatsApp espionage,&nbsp;<a href="https://www.theguardian.com/world/2020/jul/13/phone-of-top-catalan-politician-targeted-by-government-grade-spyware" target="_blank" rel="noreferrer noopener">the Guardian</a>&nbsp;said in an earlier story. The newspaper said these are the first known instances of NSO Group spyware being used in Europe.</p>
+
+
+
+<p>“We advocate for strong legal oversight of cyber weapons like the ones used in this cyberattack to ensure they are not used to violate individual rights and the freedoms people deserve, wherever they are in the world,” said Sweeney in her letter to Torrent.</p>
+
+
+
+<p>The Guardian said Torrent is preparing to sue Félix Sanz Roldán, the former boss of the Spanish National Intelligence Center. He led the agency when the attacks took place last year.&nbsp;</p>
+
+
+
+<p>WhatsApp has sued NSO Group in U.S. federal court for violating the U.S. Computer Fraud and Abuse Act. The case is still proceeding.</p>
+
+
+
+<h2 id="such-attacks-are-growing">Such attacks are growing</h2>
+
+
+
+<p>Christoph Hebeisen, director of security intelligence at Lookout, warned that these types of attacks are becoming more common across the world.</p>
+
+
+
+<p>He said: “The use of sophisticated mobile surveillanceware for domestic spying purposes appears more widespread than previously known, including in western democracies. &nbsp;</p>
+
+
+
+<p>“In light of widespread election meddling and spying on political parties and movements all over the world it is clear that protecting information and communication infrastructure including mobile devices is quickly becoming critical to any organization with a need for confidentiality.”</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://imaginableworld.com/whatsapp-hack-targets-prominent-politician-what-you-need-to-know/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

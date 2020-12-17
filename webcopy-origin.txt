@@ -1,0 +1,2256 @@
+Uri: https://imaginableworld.com/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\index.htm
+Content Type: text/html
+
+Uri: https://gmpg.org/xfn/11
+File Name: C:\Downloaded Web Sites\imaginableworld.com\xfn\11.html
+Content Type: text/html
+
+Uri: https://imaginableworld.com/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/comments/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\comments\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/wp-includes/css/dist/block-library/style.min.css?ver=5.4.4
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://imaginableworld.com/wp-includes/css/dist/block-library/theme.min.css?ver=5.4.4
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-includes\css\dist\block-library\theme.min.css
+Content Type: text/css
+
+Uri: https://imaginableworld.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/vendors-style.css?ver=3.1.0
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\vendors-style.css
+Content Type: text/css
+
+Uri: https://imaginableworld.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=3.1.0
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\style.css
+Content Type: text/css
+
+Uri: https://imaginableworld.com/wp-content/plugins/add-search-to-menu/public/css/ivory-search.min.css?ver=4.5.5
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\add-search-to-menu\public\css\ivory-search.min.css
+Content Type: text/css
+
+Uri: https://imaginableworld.com/wp-content/plugins/sticky-header-oceanwp//style.css?ver=5.4.4
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\sticky-header-oceanwp\style.css
+Content Type: text/css
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.min.css?ver=5.11.2
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min.css?ver=2.4.0
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\css\third\simple-line-icons.min.css
+Content Type: text/css
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/css/third/magnific-popup.min.css?ver=1.0.0
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\css\third\magnific-popup.min.css
+Content Type: text/css
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/css/third/slick.min.css?ver=1.6.0
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\css\third\slick.min.css
+Content Type: text/css
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/css/style.min.css?ver=1.8.6
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\css\style.min.css
+Content Type: text/css
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/css/woo/woo-mini-cart.min.css?ver=5.4.4
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\css\woo\woo-mini-cart.min.css
+Content Type: text/css
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/css/woo/woocommerce.min.css?ver=5.4.4
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\css\woo\woocommerce.min.css
+Content Type: text/css
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/css/woo/woo-star-font.min.css?ver=5.4.4
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\css\woo\woo-star-font.min.css
+Content Type: text/css
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/css/woo/woo-quick-view.min.css?ver=5.4.4
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\css\woo\woo-quick-view.min.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100i%2C200i%2C300i%2C400i%2C500i%2C600i%2C700i%2C800i%2C900i&subset=latin&ver=5.4.4
+File Name: C:\Downloaded Web Sites\imaginableworld.com\css.css
+Content Type: text/css
+
+Uri: https://imaginableworld.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.9.1
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://imaginableworld.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.0.5
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://imaginableworld.com/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.0.5
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\elementor\assets\css\frontend-legacy.min.css
+Content Type: text/css
+
+Uri: https://imaginableworld.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.0.5
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://imaginableworld.com/wp-content/uploads/elementor/css/post-28.css?ver=1599294827
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\elementor\css\post-28.css
+Content Type: text/css
+
+Uri: https://imaginableworld.com/wp-content/plugins/addons-for-elementor/assets/css/animate.css?ver=4.1.1
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\addons-for-elementor\assets\css\animate.css
+Content Type: text/css
+
+Uri: https://imaginableworld.com/wp-content/plugins/addons-for-elementor/assets/css/sliders.css?ver=4.1.1
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\addons-for-elementor\assets\css\sliders.css
+Content Type: text/css
+
+Uri: https://imaginableworld.com/wp-content/plugins/addons-for-elementor/assets/css/icomoon.css?ver=4.1.1
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\addons-for-elementor\assets\css\icomoon.css
+Content Type: text/css
+
+Uri: https://imaginableworld.com/wp-content/plugins/addons-for-elementor/assets/css/lae-frontend.css?ver=4.1.1
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\addons-for-elementor\assets\css\lae-frontend.css
+Content Type: text/css
+
+Uri: https://imaginableworld.com/wp-content/plugins/addons-for-elementor/assets/css/lae-widgets.css?ver=4.1.1
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\addons-for-elementor\assets\css\lae-widgets.css
+Content Type: text/css
+
+Uri: https://imaginableworld.com/wp-content/uploads/elementor/css/post-26.css?ver=1599327069
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\elementor\css\post-26.css
+Content Type: text/css
+
+Uri: https://imaginableworld.com/wp-content/plugins/ocean-extra/assets/css/widgets.css?ver=5.4.4
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\ocean-extra\assets\css\widgets.css
+Content Type: text/css
+
+Uri: https://imaginableworld.com/wp-content/plugins/ocean-product-sharing/assets/css/style.min.css?ver=5.4.4
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\ocean-product-sharing\assets\css\style.min.css
+Content Type: text/css
+
+Uri: https://imaginableworld.com/wp-content/plugins/ocean-social-sharing/assets/css/style.min.css?ver=5.4.4
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\ocean-social-sharing\assets\css\style.min.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Montserrat:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&ver=5.4.4
+File Name: C:\Downloaded Web Sites\imaginableworld.com\css-1.css
+Content Type: text/css
+
+Uri: https://imaginableworld.com/wp-json/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\index.htm.json
+Content Type: application/json
+
+Uri: https://imaginableworld.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\imaginableworld.com\xmlrpc.php.xml
+Content Type: text/xml
+
+Uri: https://imaginableworld.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2F
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed.json
+Content Type: application/json
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed.xml
+Content Type: text/xml
+
+Uri: https://imaginableworld.com/ar/elementor-266/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\ar\elementor-266\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/cropped-icon-32x32.gif
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\cropped-icon-32x32.gif
+Content Type: image/gif
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/cropped-icon-192x192.gif
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\cropped-icon-192x192.gif
+Content Type: image/gif
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/cropped-icon-180x180.gif
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\cropped-icon-180x180.gif
+Content Type: image/gif
+
+Uri: https://imaginableworld.com/shop/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\shop\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/blog/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\blog\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/about-us/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\about-us\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/my-account/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\my-account\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/my-account/downloads/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\my-account\downloads\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/my-account/orders/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\my-account\orders\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/my-account/edit-address/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\my-account\edit-address\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/my-account/edit-account/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\my-account\edit-account\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/my-account/lost-password/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\my-account\lost-password\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/cart/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\cart\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product/sheet-music-apps/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product\sheet-music-apps\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product/chemist-by-thix/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product\chemist-by-thix\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product/poly-bridge/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product\poly-bridge\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product/fl-studio-mobile-for-iphone-ipad/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product\fl-studio-mobile-for-iphone-ipad\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product/agent-a-a-puzzle-in-disguise/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product\agent-a-a-puzzle-in-disguise\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product/kingdom-rush-vengeance/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product\kingdom-rush-vengeance\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product/digital-product-1/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product\digital-product-1\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product/digital-product-3/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product\digital-product-3\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product/digital-product-2/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product\digital-product-2\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/microsoft-surface-neo-could-be-very-far-away-and-thats-not-good/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\microsoft-surface-neo-could-be-very-far-away-and-thats-not-good\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/category/microsoft/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\category\microsoft\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/author/imaginableworld_admin/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\author\imaginableworld_admin\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/whatsapp-hack-targets-prominent-politician-what-you-need-to-know/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\whatsapp-hack-targets-prominent-politician-what-you-need-to-know\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/category/whatsapp/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\category\whatsapp\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/google-pixel-4a-release-date-100-confirmed-heres-when-its-finally-coming/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\google-pixel-4a-release-date-100-confirmed-heres-when-its-finally-coming\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/category/pixel4a/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\category\pixel4a\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/forget-the-iphone-12-android-phones-will-soon-fully-charge-in-15-minutes/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\forget-the-iphone-12-android-phones-will-soon-fully-charge-in-15-minutes\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/category/fastcharging/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\category\fastcharging\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/how-can-ai-and-ml-help-you-build-trending-mobile-applications/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\how-can-ai-and-ml-help-you-build-trending-mobile-applications\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/category/ai/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\category\ai\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/7-ios-facts-everyone-should-know/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\7-ios-facts-everyone-should-know\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/category/ios/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\category\ios\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-includes\js\jquery\jquery.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-content/plugins/sticky-header-oceanwp//main.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\sticky-header-oceanwp\main.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/cropped-LogoMakr_3Jnvmr.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\cropped-LogoMakr_3Jnvmr.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-30-в-10.19.44-AM.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-30-в-10.19.44-AM.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-30-в-10.14.33-AM.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-30-в-10.14.33-AM.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-30-в-10.10.48-AM.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-30-в-10.10.48-AM.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-30-в-10.07.44-AM.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-30-в-10.07.44-AM.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-30-в-10.04.18-AM.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-30-в-10.04.18-AM.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-30-в-10.01.12-AM.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-30-в-10.01.12-AM.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-29-в-1.27.37-AM.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-29-в-1.27.37-AM.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-29-в-1.50.37-AM.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-29-в-1.50.37-AM.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-29-в-1.43.33-AM.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-29-в-1.43.33-AM.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/H2EPdbXnsP5DnVeVcvCxZg-1024-80.jpg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\H2EPdbXnsP5DnVeVcvCxZg-1024-80.jpg
+Content Type: image/jpeg
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Skm5PmDA4NqpQpL4iDfxF-1024-80.jpg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Skm5PmDA4NqpQpL4iDfxF-1024-80.jpg
+Content Type: image/jpeg
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/28jKcguCTWSZ3Z47RoEuwL-1024-80.jpg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\28jKcguCTWSZ3Z47RoEuwL-1024-80.jpg
+Content Type: image/jpeg
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/3pVAJJtzSY3ATh9Fmoqx5C-1024-80.jpg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\3pVAJJtzSY3ATh9Fmoqx5C-1024-80.jpg
+Content Type: image/jpeg
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/How-Can-AI-And-ML-Help-You-Build-Trending-Mobile-Applications-1024x683.jpeg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\How-Can-AI-And-ML-Help-You-Build-Trending-Mobile-Applications-1024x683.jpeg
+Content Type: image/jpeg
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/apple-logo-secrets-1024x742.jpg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\apple-logo-secrets-1024x742.jpg
+Content Type: image/jpeg
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Untitled-1-1-300x75.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Untitled-1-1-300x75.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Untitled-2-3-300x79.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Untitled-2-3-300x79.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=4.4.1
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=4.4.1
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\woocommerce\assets\js\frontend\cart-fragments.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-includes/js/imagesloaded.min.js?ver=3.2.0
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-includes\js\imagesloaded.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/js/third/woo/woo-scripts.min.js?ver=1.8.6
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\js\third\woo\woo-scripts.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/js/third/magnific-popup.min.js?ver=1.8.6
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\js\third\magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/js/third/lightbox.min.js?ver=1.8.6
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\js\third\lightbox.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/js/main.min.js?ver=1.8.6
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\js\main.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/js/third/woo/woo-quick-view.min.js?ver=1.8.6
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\js\third\woo\woo-quick-view.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-includes/js/underscore.min.js?ver=1.8.3
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-includes/js/wp-util.min.js?ver=5.4.4
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-includes\js\wp-util.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=4.4.1
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart-variation.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-content/plugins/woocommerce/assets/js/flexslider/jquery.flexslider.min.js?ver=2.7.2
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\woocommerce\assets\js\flexslider\jquery.flexslider.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/js/third/woo/woo-mini-cart.min.js?ver=1.8.6
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\js\third\woo\woo-mini-cart.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-content/plugins/ocean-product-sharing/assets/js/social.min.js?ver=1.1.0
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\ocean-product-sharing\assets\js\social.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-content/plugins/ocean-social-sharing/assets/js/social.min.js?ver=1.1.0
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\ocean-social-sharing\assets\js\social.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-content/plugins/add-search-to-menu/public/js/ivory-search.min.js?ver=4.5.5
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\add-search-to-menu\public\js\ivory-search.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-includes/js/wp-embed.min.js?ver=5.4.4
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-content/plugins/addons-for-elementor/assets/js/jquery.waypoints.min.js?ver=4.1.1
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\addons-for-elementor\assets\js\jquery.waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-content/plugins/addons-for-elementor/assets/js/lae-widgets.min.js?ver=4.1.1
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\addons-for-elementor\assets\js\lae-widgets.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-content/plugins/addons-for-elementor/assets/js/lae-frontend.min.js?ver=4.1.1
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\addons-for-elementor\assets\js\lae-frontend.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-content/plugins/addons-for-elementor/assets/js/isotope.pkgd.min.js?ver=4.1.1
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\addons-for-elementor\assets\js\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-content/plugins/addons-for-elementor/assets/js/imagesloaded.pkgd.min.js?ver=4.1.1
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\addons-for-elementor\assets\js\imagesloaded.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-content/uploads/essential-addons-elementor/cb70d11b8.min.js?ver=1608212226
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\essential-addons-elementor\cb70d11b8.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.0.5
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-includes\js\jquery\ui\position.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\elementor\assets\lib\dialog\dialog.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\elementor\assets\lib\swiper\swiper.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.0.5
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\elementor\assets\lib\share-link\share-link.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.0.5
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/cropped-LogoMakr_3Jnvmr-300x97.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\cropped-LogoMakr_3Jnvmr-300x97.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-30-в-10.19.44-AM-300x296.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-30-в-10.19.44-AM-300x296.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-30-в-10.19.44-AM-100x100.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-30-в-10.19.44-AM-100x100.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-30-в-10.14.33-AM-295x300.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-30-в-10.14.33-AM-295x300.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-30-в-10.10.48-AM-300x291.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-30-в-10.10.48-AM-300x291.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-30-в-10.07.44-AM-300x288.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-30-в-10.07.44-AM-300x288.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-30-в-10.04.18-AM-300x287.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-30-в-10.04.18-AM-300x287.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-30-в-10.01.12-AM-300x290.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-30-в-10.01.12-AM-300x290.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-29-в-1.27.37-AM-300x288.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-29-в-1.27.37-AM-300x288.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-29-в-1.50.37-AM-300x294.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-29-в-1.50.37-AM-300x294.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-29-в-1.43.33-AM-300x290.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-29-в-1.43.33-AM-300x290.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/H2EPdbXnsP5DnVeVcvCxZg-1024-80-300x169.jpg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\H2EPdbXnsP5DnVeVcvCxZg-1024-80-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/H2EPdbXnsP5DnVeVcvCxZg-1024-80-768x432.jpg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\H2EPdbXnsP5DnVeVcvCxZg-1024-80-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/H2EPdbXnsP5DnVeVcvCxZg-1024-80-750x422.jpg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\H2EPdbXnsP5DnVeVcvCxZg-1024-80-750x422.jpg
+Content Type: image/jpeg
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Skm5PmDA4NqpQpL4iDfxF-1024-80-300x168.jpg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Skm5PmDA4NqpQpL4iDfxF-1024-80-300x168.jpg
+Content Type: image/jpeg
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Skm5PmDA4NqpQpL4iDfxF-1024-80-768x431.jpg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Skm5PmDA4NqpQpL4iDfxF-1024-80-768x431.jpg
+Content Type: image/jpeg
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Skm5PmDA4NqpQpL4iDfxF-1024-80-750x421.jpg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Skm5PmDA4NqpQpL4iDfxF-1024-80-750x421.jpg
+Content Type: image/jpeg
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/28jKcguCTWSZ3Z47RoEuwL-1024-80-300x169.jpg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\28jKcguCTWSZ3Z47RoEuwL-1024-80-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/28jKcguCTWSZ3Z47RoEuwL-1024-80-768x432.jpg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\28jKcguCTWSZ3Z47RoEuwL-1024-80-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/28jKcguCTWSZ3Z47RoEuwL-1024-80-750x422.jpg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\28jKcguCTWSZ3Z47RoEuwL-1024-80-750x422.jpg
+Content Type: image/jpeg
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/3pVAJJtzSY3ATh9Fmoqx5C-1024-80-300x169.jpg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\3pVAJJtzSY3ATh9Fmoqx5C-1024-80-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/3pVAJJtzSY3ATh9Fmoqx5C-1024-80-768x432.jpg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\3pVAJJtzSY3ATh9Fmoqx5C-1024-80-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/3pVAJJtzSY3ATh9Fmoqx5C-1024-80-750x422.jpg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\3pVAJJtzSY3ATh9Fmoqx5C-1024-80-750x422.jpg
+Content Type: image/jpeg
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/How-Can-AI-And-ML-Help-You-Build-Trending-Mobile-Applications-300x200.jpeg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\How-Can-AI-And-ML-Help-You-Build-Trending-Mobile-Applications-300x200.jpeg
+Content Type: image/jpeg
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/How-Can-AI-And-ML-Help-You-Build-Trending-Mobile-Applications-768x512.jpeg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\How-Can-AI-And-ML-Help-You-Build-Trending-Mobile-Applications-768x512.jpeg
+Content Type: image/jpeg
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/How-Can-AI-And-ML-Help-You-Build-Trending-Mobile-Applications-1536x1025.jpeg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\How-Can-AI-And-ML-Help-You-Build-Trending-Mobile-Applications-1536x1025.jpeg
+Content Type: image/jpeg
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/How-Can-AI-And-ML-Help-You-Build-Trending-Mobile-Applications-750x500.jpeg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\How-Can-AI-And-ML-Help-You-Build-Trending-Mobile-Applications-750x500.jpeg
+Content Type: image/jpeg
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/How-Can-AI-And-ML-Help-You-Build-Trending-Mobile-Applications.jpeg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\How-Can-AI-And-ML-Help-You-Build-Trending-Mobile-Applications.jpeg
+Content Type: image/jpeg
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/apple-logo-secrets-300x217.jpg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\apple-logo-secrets-300x217.jpg
+Content Type: image/jpeg
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/apple-logo-secrets-768x556.jpg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\apple-logo-secrets-768x556.jpg
+Content Type: image/jpeg
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/apple-logo-secrets-750x543.jpg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\apple-logo-secrets-750x543.jpg
+Content Type: image/jpeg
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/apple-logo-secrets.jpg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\apple-logo-secrets.jpg
+Content Type: image/jpeg
+
+Uri: https://wordpress.org/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\index-1.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.eot?v=2.4.0
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\fonts\simple-line-icons\Simple-Line-Icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.woff2?v=2.4.0
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\fonts\simple-line-icons\Simple-Line-Icons.woff2
+Content Type: font/woff2
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.ttf?v=2.4.0
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\fonts\simple-line-icons\Simple-Line-Icons.ttf
+Content Type: font/ttf
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.woff?v=2.4.0
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\fonts\simple-line-icons\Simple-Line-Icons.woff
+Content Type: font/woff
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.svg?v=2.4.0
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\fonts\simple-line-icons\Simple-Line-Icons.svg
+Content Type: image/svg+xml
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/fonts/slick/slick.eot
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\fonts\slick\slick.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/fonts/slick/slick.eot?
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\fonts\slick\slick-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/fonts/slick/slick.woff
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\fonts\slick\slick.woff
+Content Type: font/woff
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/fonts/slick/slick.ttf
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\fonts\slick\slick.ttf
+Content Type: font/ttf
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/fonts/slick/slick.svg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\fonts\slick\slick.svg
+Content Type: image/svg+xml
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/fonts/star/star.eot
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\fonts\star\star.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/fonts/star/star.eot?
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\fonts\star\star-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/fonts/star/star.woff
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\fonts\star\star.woff
+Content Type: font/woff
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/fonts/star/star.ttf
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\fonts\star\star.ttf
+Content Type: font/ttf
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/fonts/star/star.svg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\fonts\star\star.svg
+Content Type: image/svg+xml
+
+Uri: https://imaginableworld.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.9.1
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://imaginableworld.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.9.1
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://imaginableworld.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.9.1
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: https://imaginableworld.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.9.1
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: font/ttf
+
+Uri: https://imaginableworld.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.9.1
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://imaginableworld.com/wp-content/plugins/addons-for-elementor/assets/css/fonts/lae-icomoon.ttf?w77gxm
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\addons-for-elementor\assets\css\fonts\lae-icomoon.ttf
+Content Type: font/ttf
+
+Uri: https://imaginableworld.com/wp-content/plugins/addons-for-elementor/assets/css/fonts/lae-icomoon.woff?w77gxm
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\addons-for-elementor\assets\css\fonts\lae-icomoon.woff
+Content Type: font/woff
+
+Uri: https://imaginableworld.com/wp-content/plugins/addons-for-elementor/assets/css/fonts/lae-icomoon.svg?w77gxm
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\addons-for-elementor\assets\css\fonts\lae-icomoon.svg
+Content Type: image/svg+xml
+
+Uri: https://imaginableworld.com/wp-content/plugins/addons-for-elementor/assets/css/ajax-loader.gif
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\addons-for-elementor\assets\css\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://imaginableworld.com/wp-content/plugins/ocean-extra/assets/img/instagram-logo.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\ocean-extra\assets\img\instagram-logo.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/plugins/ocean-extra/assets/img/flickr.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\ocean-extra\assets\img\flickr.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/ar/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\ar\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/ar/comments/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\ar\comments\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/wp-includes/css/dist/block-library/style-rtl.min.css?ver=5.4.4
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-includes\css\dist\block-library\style-rtl.min.css
+Content Type: text/css
+
+Uri: https://imaginableworld.com/wp-includes/css/dist/block-library/theme-rtl.min.css?ver=5.4.4
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-includes\css\dist\block-library\theme-rtl.min.css
+Content Type: text/css
+
+Uri: https://imaginableworld.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style-rtl.css?ver=3.1.0
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\style-rtl.css
+Content Type: text/css
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/css/woo/woo-mini-cart-rtl.css?ver=5.4.4
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\css\woo\woo-mini-cart-rtl.css
+Content Type: text/css
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/css/woo/woocommerce-rtl.css?ver=5.4.4
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\css\woo\woocommerce-rtl.css
+Content Type: text/css
+
+Uri: https://imaginableworld.com/wp-content/plugins/elementor/assets/css/frontend-legacy-rtl.min.css?ver=3.0.5
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\elementor\assets\css\frontend-legacy-rtl.min.css
+Content Type: text/css
+
+Uri: https://imaginableworld.com/wp-content/plugins/elementor/assets/css/frontend-rtl.min.css?ver=3.0.5
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\elementor\assets\css\frontend-rtl.min.css
+Content Type: text/css
+
+Uri: https://imaginableworld.com/wp-content/uploads/elementor/css/post-266.css?ver=1599580804
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\elementor\css\post-266.css
+Content Type: text/css
+
+Uri: https://imaginableworld.com/wp-content/plugins/ocean-extra/assets/css/rtl.css?ver=5.4.4
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\ocean-extra\assets\css\rtl.css
+Content Type: text/css
+
+Uri: https://imaginableworld.com/wp-content/plugins/ocean-product-sharing/assets/css/rtl.css?ver=5.4.4
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\ocean-product-sharing\assets\css\rtl.css
+Content Type: text/css
+
+Uri: https://imaginableworld.com/wp-content/plugins/ocean-social-sharing/assets/css/rtl.css?ver=5.4.4
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\ocean-social-sharing\assets\css\rtl.css
+Content Type: text/css
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/rtl.css
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\rtl.css
+Content Type: text/css
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Far%2Felementor-266%2F
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-1.json
+Content Type: application/json
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Far%2Felementor-266%2F&format=xml
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-1.xml
+Content Type: text/xml
+
+Uri: https://imaginableworld.com/wp-content/uploads/essential-addons-elementor/cb70d11b8.min.js?ver=1608212379
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\essential-addons-elementor\cb70d11b8.min-1.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/shop/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\shop\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/shop/?products-per-page=12
+File Name: C:\Downloaded Web Sites\imaginableworld.com\shop\index-1.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/shop/?products-per-page=24
+File Name: C:\Downloaded Web Sites\imaginableworld.com\shop\index-2.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/shop/?products-per-page=all
+File Name: C:\Downloaded Web Sites\imaginableworld.com\shop\index-3.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product/anatomy-physiology/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product\anatomy-physiology\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product/hitman-go-for-ipad-iphone-appletv/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product\hitman-go-for-ipad-iphone-appletv\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product/human-anatomy-atlas-2021-for-ipad-iphone/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product\human-anatomy-atlas-2021-for-ipad-iphone\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product/netflix-monthly-subscription-cheap/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product\netflix-monthly-subscription-cheap\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product/notability-for-iphone-ipad/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product\notability-for-iphone-ipad\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/shop/page/2/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\shop\page\2\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-tag/ipad/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-tag\ipad\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-tag/iphone/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-tag\iphone\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-tag/subscription/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-tag\subscription\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-category/business/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-category\business\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-category/design/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-category\design\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-category/educational/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-category\educational\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-category/games/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-category\games\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-category/ios/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-category\ios\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-category/medical/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-category\medical\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-category/music/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-category\music\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-category/netflix/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-category\netflix\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-category/productivity/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-category\productivity\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-category/uncategorized/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-category\uncategorized\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-30-в-9.46.21-AM.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-30-в-9.46.21-AM.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-30-в-9.57.59-AM.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-30-в-9.57.59-AM.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-29-в-2.08.39-AM.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-29-в-2.08.39-AM.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-30-в-9.32.35-AM.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-30-в-9.32.35-AM.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-29-в-2.01.21-AM.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-29-в-2.01.21-AM.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-includes\js\jquery\ui\widget.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-includes\js\jquery\ui\mouse.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-includes\js\jquery\ui\slider.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-content/plugins/woocommerce/assets/js/jquery-ui-touch-punch/jquery-ui-touch-punch.min.js?ver=4.4.1
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\woocommerce\assets\js\jquery-ui-touch-punch\jquery-ui-touch-punch.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-content/plugins/woocommerce/assets/js/accounting/accounting.min.js?ver=0.4.2
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\woocommerce\assets\js\accounting\accounting.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-content/plugins/woocommerce/assets/js/frontend/price-slider.min.js?ver=4.4.1
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\woocommerce\assets\js\frontend\price-slider.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-30-в-9.46.21-AM-300x283.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-30-в-9.46.21-AM-300x283.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-30-в-9.57.59-AM-300x285.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-30-в-9.57.59-AM-300x285.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-29-в-2.08.39-AM-300x296.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-29-в-2.08.39-AM-300x296.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-29-в-2.08.39-AM-100x100.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-29-в-2.08.39-AM-100x100.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-30-в-9.32.35-AM-300x289.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-30-в-9.32.35-AM-300x289.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-29-в-2.01.21-AM-300x295.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-29-в-2.01.21-AM-300x295.png
+Content Type: image/png
+
+Uri: https://www.facebook.com/theimaginableworld
+File Name: C:\Downloaded Web Sites\imaginableworld.com\theimaginableworld.html
+Content Type: text/html
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/apple-logo-secrets-150x150.jpg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\apple-logo-secrets-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/H2EPdbXnsP5DnVeVcvCxZg-1024-80-150x150.jpg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\H2EPdbXnsP5DnVeVcvCxZg-1024-80-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Skm5PmDA4NqpQpL4iDfxF-1024-80-150x150.jpg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Skm5PmDA4NqpQpL4iDfxF-1024-80-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/28jKcguCTWSZ3Z47RoEuwL-1024-80-150x150.jpg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\28jKcguCTWSZ3Z47RoEuwL-1024-80-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://www.facebook.com/plugins/likebox.php?href=https:%2F%2Fwww.facebook.com%2Ftheimaginableworld&width=300&height=300&colorscheme=light&show_faces=true&stream=false&show_border=true&header=false&force_wall=false
+File Name: C:\Downloaded Web Sites\imaginableworld.com\plugins\likebox.php.html
+Content Type: text/html
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/apple-logo-secrets-750x750.jpg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\apple-logo-secrets-750x750.jpg
+Content Type: image/jpeg
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/apple-logo-secrets-100x100.jpg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\apple-logo-secrets-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/H2EPdbXnsP5DnVeVcvCxZg-1024-80-100x100.jpg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\H2EPdbXnsP5DnVeVcvCxZg-1024-80-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Skm5PmDA4NqpQpL4iDfxF-1024-80-100x100.jpg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Skm5PmDA4NqpQpL4iDfxF-1024-80-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/28jKcguCTWSZ3Z47RoEuwL-1024-80-100x100.jpg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\28jKcguCTWSZ3Z47RoEuwL-1024-80-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://imaginableworld.com/wp-content/uploads/elementor/css/post-63.css?ver=1599294828
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\elementor\css\post-63.css
+Content Type: text/css
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Fabout-us%2F
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-2.json
+Content Type: application/json
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Fabout-us%2F&format=xml
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-2.xml
+Content Type: text/xml
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/related-service-1200x900-1024x768-1.jpg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\related-service-1200x900-1024x768-1.jpg
+Content Type: image/jpeg
+
+Uri: https://imaginableworld.com/wp-content/uploads/essential-addons-elementor/2be4a9709.min.js?ver=1608212404
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\essential-addons-elementor\2be4a9709.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/related-service-1200x900-1024x768-1-300x225.jpg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\related-service-1200x900-1024x768-1-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/related-service-1200x900-1024x768-1-768x576.jpg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\related-service-1200x900-1024x768-1-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/related-service-1200x900-1024x768-1-750x563.jpg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\related-service-1200x900-1024x768-1-750x563.jpg
+Content Type: image/jpeg
+
+Uri: https://imaginableworld.com/wp-content/plugins/woocommerce/assets/css/select2.css?ver=4.4.1
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\woocommerce\assets\css\select2.css
+Content Type: text/css
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Fmy-account%2F
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-3.json
+Content Type: application/json
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Fmy-account%2F&format=xml
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-3.xml
+Content Type: text/xml
+
+Uri: https://imaginableworld.com/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.6
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\woocommerce\assets\js\selectWoo\selectWoo.full.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-includes\js\zxcvbn-async.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-admin/js/password-strength-meter.min.js?ver=5.4.4
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-admin\js\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js?ver=4.4.1
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\woocommerce\assets\js\frontend\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-content/plugins/woocommerce/assets/js/frontend/lost-password.min.js?ver=4.4.1
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\woocommerce\assets\js\frontend\lost-password.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Fcart%2F
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-4.json
+Content Type: application/json
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Fcart%2F&format=xml
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-4.xml
+Content Type: text/xml
+
+Uri: https://imaginableworld.com/wp-content/plugins/woocommerce/assets/js/frontend/country-select.min.js?ver=4.4.1
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\woocommerce\assets\js\frontend\country-select.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-content/plugins/woocommerce/assets/js/frontend/address-i18n.min.js?ver=4.4.1
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\woocommerce\assets\js\frontend\address-i18n.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-content/plugins/woocommerce/assets/js/frontend/cart.min.js?ver=4.4.1
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\woocommerce\assets\js\frontend\cart.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/product/sheet-music-apps/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product\sheet-music-apps\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/wp-content/plugins/woocommerce/assets/css/photoswipe/photoswipe.min.css?ver=4.4.1
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\woocommerce\assets\css\photoswipe\photoswipe.min.css
+Content Type: text/css
+
+Uri: https://imaginableworld.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.min.css?ver=4.4.1
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.min.css
+Content Type: text/css
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/css/woo/woo-floating-bar.min.css?ver=5.4.4
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\css\woo\woo-floating-bar.min.css
+Content Type: text/css
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Fproduct%2Fsheet-music-apps%2F
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-5.json
+Content Type: application/json
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Fproduct%2Fsheet-music-apps%2F&format=xml
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-5.xml
+Content Type: text/xml
+
+Uri: https://www.pinterest.com/pin/create/button/?url=https:%2F%2Fimaginableworld.com%2Fproduct%2Fsheet-music-apps%2F&media=https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-30-в-10.19.44-AM.png&description=Sheet Music Apps
+File Name: C:\Downloaded Web Sites\imaginableworld.com\pin\create\button\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-30-в-10.14.33-AM-100x100.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-30-в-10.14.33-AM-100x100.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/plugins/woocommerce/assets/js/zoom/jquery.zoom.min.js?ver=1.7.21
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\woocommerce\assets\js\zoom\jquery.zoom.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe.min.js?ver=4.1.1
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\woocommerce\assets\js\photoswipe\photoswipe.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe-ui-default.min.js?ver=4.1.1
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\woocommerce\assets\js\photoswipe\photoswipe-ui-default.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=4.4.1
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\woocommerce\assets\js\frontend\single-product.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-includes/js/comment-reply.min.js?ver=5.4.4
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-content/themes/oceanwp/assets/js/third/woo/woo-floating-bar.min.js?ver=1.8.6
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\themes\oceanwp\assets\js\third\woo\woo-floating-bar.min.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-30-в-10.14.33-AM-150x150.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-30-в-10.14.33-AM-150x150.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/product/chemist-by-thix/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product\chemist-by-thix\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Fproduct%2Fchemist-by-thix%2F
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-6.json
+Content Type: application/json
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Fproduct%2Fchemist-by-thix%2F&format=xml
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-6.xml
+Content Type: text/xml
+
+Uri: https://www.pinterest.com/pin/create/button/?url=https:%2F%2Fimaginableworld.com%2Fproduct%2Fchemist-by-thix%2F&media=https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-30-в-10.14.33-AM.png&description=CHEMIST by THIX
+File Name: C:\Downloaded Web Sites\imaginableworld.com\pin\create\button\index-1.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product/digital-product-4/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product\digital-product-4\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-30-в-10.10.48-AM-100x100.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-30-в-10.10.48-AM-100x100.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-29-в-1.57.07-AM.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-29-в-1.57.07-AM.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-30-в-10.19.44-AM-150x150.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-30-в-10.19.44-AM-150x150.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-30-в-10.10.48-AM-150x150.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-30-в-10.10.48-AM-150x150.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-29-в-1.57.07-AM-300x296.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-29-в-1.57.07-AM-300x296.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-29-в-1.57.07-AM-100x100.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-29-в-1.57.07-AM-100x100.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/product/poly-bridge/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product\poly-bridge\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Fproduct%2Fpoly-bridge%2F
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-7.json
+Content Type: application/json
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Fproduct%2Fpoly-bridge%2F&format=xml
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-7.xml
+Content Type: text/xml
+
+Uri: https://www.pinterest.com/pin/create/button/?url=https:%2F%2Fimaginableworld.com%2Fproduct%2Fpoly-bridge%2F&media=https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-30-в-10.10.48-AM.png&description=Poly Bridge
+File Name: C:\Downloaded Web Sites\imaginableworld.com\pin\create\button\index-2.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product/spotify-premium-subscription/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product\spotify-premium-subscription\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-30-в-10.07.44-AM-100x100.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-30-в-10.07.44-AM-100x100.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-30-в-9.39.25-AM.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-30-в-9.39.25-AM.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-30-в-10.07.44-AM-150x150.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-30-в-10.07.44-AM-150x150.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-30-в-9.39.25-AM-300x283.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-30-в-9.39.25-AM-300x283.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/product/fl-studio-mobile-for-iphone-ipad/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product\fl-studio-mobile-for-iphone-ipad\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Fproduct%2Ffl-studio-mobile-for-iphone-ipad%2F
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-8.json
+Content Type: application/json
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Fproduct%2Ffl-studio-mobile-for-iphone-ipad%2F&format=xml
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-8.xml
+Content Type: text/xml
+
+Uri: https://www.pinterest.com/pin/create/button/?url=https:%2F%2Fimaginableworld.com%2Fproduct%2Ffl-studio-mobile-for-iphone-ipad%2F&media=https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-30-в-10.07.44-AM.png&description=FL Studio Mobile for Iphone %26%23038%3B Ipad
+File Name: C:\Downloaded Web Sites\imaginableworld.com\pin\create\button\index-3.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-30-в-10.04.18-AM-100x100.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-30-в-10.04.18-AM-100x100.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-30-в-10.04.18-AM-150x150.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-30-в-10.04.18-AM-150x150.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/product/agent-a-a-puzzle-in-disguise/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product\agent-a-a-puzzle-in-disguise\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Fproduct%2Fagent-a-a-puzzle-in-disguise%2F
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-9.json
+Content Type: application/json
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Fproduct%2Fagent-a-a-puzzle-in-disguise%2F&format=xml
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-9.xml
+Content Type: text/xml
+
+Uri: https://www.pinterest.com/pin/create/button/?url=https:%2F%2Fimaginableworld.com%2Fproduct%2Fagent-a-a-puzzle-in-disguise%2F&media=https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-30-в-10.04.18-AM.png&description=Agent A: A puzzle in disguise
+File Name: C:\Downloaded Web Sites\imaginableworld.com\pin\create\button\index-4.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-30-в-10.01.12-AM-100x100.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-30-в-10.01.12-AM-100x100.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-30-в-10.01.12-AM-150x150.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-30-в-10.01.12-AM-150x150.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/product/kingdom-rush-vengeance/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product\kingdom-rush-vengeance\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Fproduct%2Fkingdom-rush-vengeance%2F
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-10.json
+Content Type: application/json
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Fproduct%2Fkingdom-rush-vengeance%2F&format=xml
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-10.xml
+Content Type: text/xml
+
+Uri: https://www.pinterest.com/pin/create/button/?url=https:%2F%2Fimaginableworld.com%2Fproduct%2Fkingdom-rush-vengeance%2F&media=https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-30-в-10.01.12-AM.png&description=Kingdom Rush Vengeance
+File Name: C:\Downloaded Web Sites\imaginableworld.com\pin\create\button\index-5.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-30-в-9.57.59-AM-100x100.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-30-в-9.57.59-AM-100x100.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-30-в-9.57.59-AM-150x150.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-30-в-9.57.59-AM-150x150.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Fproduct%2Fdigital-product-1%2F
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-11.json
+Content Type: application/json
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Fproduct%2Fdigital-product-1%2F&format=xml
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-11.xml
+Content Type: text/xml
+
+Uri: https://www.pinterest.com/pin/create/button/?url=https:%2F%2Fimaginableworld.com%2Fproduct%2Fdigital-product-1%2F&media=https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-29-в-1.27.37-AM.png&description=Grand Theft Auto: San Andreas for IOS
+File Name: C:\Downloaded Web Sites\imaginableworld.com\pin\create\button\index-6.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-29-в-1.43.33-AM-100x100.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-29-в-1.43.33-AM-100x100.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-29-в-1.43.33-AM-150x150.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-29-в-1.43.33-AM-150x150.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Fproduct%2Fdigital-product-3%2F
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-12.json
+Content Type: application/json
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Fproduct%2Fdigital-product-3%2F&format=xml
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-12.xml
+Content Type: text/xml
+
+Uri: https://www.pinterest.com/pin/create/button/?url=https:%2F%2Fimaginableworld.com%2Fproduct%2Fdigital-product-3%2F&media=https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-29-в-1.50.37-AM.png&description=GRID™ Autosport for Ipad %26%23038%3B Iphone
+File Name: C:\Downloaded Web Sites\imaginableworld.com\pin\create\button\index-7.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-29-в-1.57.07-AM-150x150.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-29-в-1.57.07-AM-150x150.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Fproduct%2Fdigital-product-2%2F
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-13.json
+Content Type: application/json
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Fproduct%2Fdigital-product-2%2F&format=xml
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-13.xml
+Content Type: text/xml
+
+Uri: https://www.pinterest.com/pin/create/button/?url=https:%2F%2Fimaginableworld.com%2Fproduct%2Fdigital-product-2%2F&media=https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-29-в-1.43.33-AM.png&description=Minecraft for Ipad %26%23038%3B Iphone
+File Name: C:\Downloaded Web Sites\imaginableworld.com\pin\create\button\index-8.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-29-в-1.50.37-AM-100x100.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-29-в-1.50.37-AM-100x100.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-29-в-1.27.37-AM-100x100.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-29-в-1.27.37-AM-100x100.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-29-в-1.50.37-AM-150x150.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-29-в-1.50.37-AM-150x150.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-29-в-1.27.37-AM-150x150.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-29-в-1.27.37-AM-150x150.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/microsoft-surface-neo-could-be-very-far-away-and-thats-not-good/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\microsoft-surface-neo-could-be-very-far-away-and-thats-not-good\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Fmicrosoft-surface-neo-could-be-very-far-away-and-thats-not-good%2F
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-14.json
+Content Type: application/json
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Fmicrosoft-surface-neo-could-be-very-far-away-and-thats-not-good%2F&format=xml
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-14.xml
+Content Type: text/xml
+
+Uri: https://imaginableworld.com/tag/surface-neo/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\tag\surface-neo\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/tag/windows/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\tag\windows\index.htm
+Content Type: text/html
+
+Uri: https://www.pinterest.com/pin/create/button/?url=https:%2F%2Fimaginableworld.com%2Fmicrosoft-surface-neo-could-be-very-far-away-and-thats-not-good%2F&media=https://imaginableworld.com/wp-content/uploads/2020/07/H2EPdbXnsP5DnVeVcvCxZg-1024-80.jpg&description=Microsoft+has+scrubbed+all+mention+of+Holiday+2020+from+the+Surface+Neo's+website.+If+you+were+looking+forward+to+getting+your+hands+on+Microsoft's+Surface+Neo+dual-screen%2C+Windows+10X-powered+tablet+before+the+end+of+the+year%2C+we've+got+some+bad%26hellip%3B
+File Name: C:\Downloaded Web Sites\imaginableworld.com\pin\create\button\index-9.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/3pVAJJtzSY3ATh9Fmoqx5C-1024-80-150x150.jpg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\3pVAJJtzSY3ATh9Fmoqx5C-1024-80-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/3pVAJJtzSY3ATh9Fmoqx5C-1024-80-100x100.jpg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\3pVAJJtzSY3ATh9Fmoqx5C-1024-80-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://imaginableworld.com/category/microsoft/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\category\microsoft\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/author/imaginableworld_admin/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\author\imaginableworld_admin\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/whatsapp-hack-targets-prominent-politician-what-you-need-to-know/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\whatsapp-hack-targets-prominent-politician-what-you-need-to-know\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Fwhatsapp-hack-targets-prominent-politician-what-you-need-to-know%2F
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-15.json
+Content Type: application/json
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Fwhatsapp-hack-targets-prominent-politician-what-you-need-to-know%2F&format=xml
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-15.xml
+Content Type: text/xml
+
+Uri: https://www.theguardian.com/technology/2020/jul/28/whatsapp-confirms-catalan-politicians-phone-was-target-of-2019-attack
+File Name: C:\Downloaded Web Sites\imaginableworld.com\technology\2020\jul\28\whatsapp-confirms-catalan-politicians-phone-was-target-of-2019-attack.html
+Content Type: text/html
+
+Uri: https://www.tomsguide.com/us/pictures-story/528-whatsapp-how-to-user-guide.html
+File Name: C:\Downloaded Web Sites\imaginableworld.com\us\pictures-story\528-whatsapp-how-to-user-guide.html
+Content Type: text/html
+
+Uri: https://www.theguardian.com/world/2020/jul/13/phone-of-top-catalan-politician-targeted-by-government-grade-spyware
+File Name: C:\Downloaded Web Sites\imaginableworld.com\world\2020\jul\13\phone-of-top-catalan-politician-targeted-by-government-grade-spyware.html
+Content Type: text/html
+
+Uri: https://imaginableworld.com/tag/catalan/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\tag\catalan\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/tag/el-pais/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\tag\el-pais\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/tag/whatsapphack/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\tag\whatsapphack\index.htm
+Content Type: text/html
+
+Uri: https://www.pinterest.com/pin/create/button/?url=https:%2F%2Fimaginableworld.com%2Fwhatsapp-hack-targets-prominent-politician-what-you-need-to-know%2F&media=https://imaginableworld.com/wp-content/uploads/2020/07/Skm5PmDA4NqpQpL4iDfxF-1024-80.jpg&description=Catalan+independence+leader+was+part+of+1%2C400+spyware+attacks+worldwide+A+leading+Spanish+politician+who+has+campaigned+for+Catalan+independence+had+his+phone+targeted+by+spyware+in+an+incident+seen+as+“domestic+espionage”%2C%26nbsp%3Baccording+to+the+Guardian.%26nbsp%3B+Messaging+app WhatsApp has+written+to%26hellip%3B
+File Name: C:\Downloaded Web Sites\imaginableworld.com\pin\create\button\index-10.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/category/whatsapp/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\category\whatsapp\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/google-pixel-4a-release-date-100-confirmed-heres-when-its-finally-coming/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\google-pixel-4a-release-date-100-confirmed-heres-when-its-finally-coming\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Fgoogle-pixel-4a-release-date-100-confirmed-heres-when-its-finally-coming%2F
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-16.json
+Content Type: application/json
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Fgoogle-pixel-4a-release-date-100-confirmed-heres-when-its-finally-coming%2F&format=xml
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-16.xml
+Content Type: text/xml
+
+Uri: https://imaginableworld.com/tag/google/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\tag\google\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/tag/pixel4a/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\tag\pixel4a\index.htm
+Content Type: text/html
+
+Uri: https://www.pinterest.com/pin/create/button/?url=https:%2F%2Fimaginableworld.com%2Fgoogle-pixel-4a-release-date-100-confirmed-heres-when-its-finally-coming%2F&media=https://imaginableworld.com/wp-content/uploads/2020/07/28jKcguCTWSZ3Z47RoEuwL-1024-80.jpg&description=The+Pixel+4a+should+be+available+August+3%2C+but+it+could+get+lost+in+the+Samsung+hype+After+months+of+speculation+and+shifting+timetables%2C+the Google+Pixel+4a is+finally+coming.+Yes%2C+there’s+an+actual+release+date+for+this+(once)+highly+anticipated%26hellip%3B
+File Name: C:\Downloaded Web Sites\imaginableworld.com\pin\create\button\index-11.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/category/pixel4a/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\category\pixel4a\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/forget-the-iphone-12-android-phones-will-soon-fully-charge-in-15-minutes/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\forget-the-iphone-12-android-phones-will-soon-fully-charge-in-15-minutes\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Fforget-the-iphone-12-android-phones-will-soon-fully-charge-in-15-minutes%2F
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-17.json
+Content Type: application/json
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Fforget-the-iphone-12-android-phones-will-soon-fully-charge-in-15-minutes%2F&format=xml
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-17.xml
+Content Type: text/xml
+
+Uri: https://imaginableworld.com/tag/android/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\tag\android\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/tag/quickcharging/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\tag\quickcharging\index.htm
+Content Type: text/html
+
+Uri: https://www.pinterest.com/pin/create/button/?url=https:%2F%2Fimaginableworld.com%2Fforget-the-iphone-12-android-phones-will-soon-fully-charge-in-15-minutes%2F&media=https://imaginableworld.com/wp-content/uploads/2020/07/3pVAJJtzSY3ATh9Fmoqx5C-1024-80.jpg&description=Qualcomm's+Quick+Charge+5+can+also+power+a+phone+up+to+50%25+in+5+minutes.+Future+smartphones+are+about+to+charge+a+lot+faster%2C+thanks+to+an+updated+version+of+Qualcomm's+Quick+Charge+technology.+And+the iPhone+12 could+look+pretty+slow%26hellip%3B
+File Name: C:\Downloaded Web Sites\imaginableworld.com\pin\create\button\index-12.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/82XKNCwYdbopHzrKzYVrEa-970-80.jpeg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\82XKNCwYdbopHzrKzYVrEa-970-80.jpeg
+Content Type: image/jpeg
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/82XKNCwYdbopHzrKzYVrEa-970-80-300x225.jpeg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\82XKNCwYdbopHzrKzYVrEa-970-80-300x225.jpeg
+Content Type: image/jpeg
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/82XKNCwYdbopHzrKzYVrEa-970-80-768x576.jpeg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\82XKNCwYdbopHzrKzYVrEa-970-80-768x576.jpeg
+Content Type: image/jpeg
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/82XKNCwYdbopHzrKzYVrEa-970-80-750x563.jpeg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\82XKNCwYdbopHzrKzYVrEa-970-80-750x563.jpeg
+Content Type: image/jpeg
+
+Uri: https://imaginableworld.com/category/fastcharging/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\category\fastcharging\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/how-can-ai-and-ml-help-you-build-trending-mobile-applications/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\how-can-ai-and-ml-help-you-build-trending-mobile-applications\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Fhow-can-ai-and-ml-help-you-build-trending-mobile-applications%2F
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-18.json
+Content Type: application/json
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Fhow-can-ai-and-ml-help-you-build-trending-mobile-applications%2F&format=xml
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-18.xml
+Content Type: text/xml
+
+Uri: https://www.statista.com/statistics/607716/worldwide-artificial-intelligence-market-revenues/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\statistics\607716\worldwide-artificial-intelligence-market-revenues\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/tag/ai/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\tag\ai\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/tag/apps/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\tag\apps\index.htm
+Content Type: text/html
+
+Uri: https://www.pinterest.com/pin/create/button/?url=https:%2F%2Fimaginableworld.com%2Fhow-can-ai-and-ml-help-you-build-trending-mobile-applications%2F&media=https://imaginableworld.com/wp-content/uploads/2020/07/How-Can-AI-And-ML-Help-You-Build-Trending-Mobile-Applications.jpeg&description=Enough+has+been+spoken+and+heard+about artificial+intelligence and machine+learning.+Most+of+us+are+aware+of+these+technological+jargons.+We+are+in+a+world+where+we+must+have+come+across+these+technologies+on+a+daily+basis%2C+but+little+do+we+know%26hellip%3B
+File Name: C:\Downloaded Web Sites\imaginableworld.com\pin\create\button\index-13.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/category/ai/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\category\ai\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/7-ios-facts-everyone-should-know/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\7-ios-facts-everyone-should-know\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2F7-ios-facts-everyone-should-know%2F
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-19.json
+Content Type: application/json
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2F7-ios-facts-everyone-should-know%2F&format=xml
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-19.xml
+Content Type: text/xml
+
+Uri: https://imaginableworld.com/tag/apple-hacks/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\tag\apple-hacks\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/tag/ios-apps/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\tag\ios-apps\index.htm
+Content Type: text/html
+
+Uri: https://www.pinterest.com/pin/create/button/?url=https:%2F%2Fimaginableworld.com%2F7-ios-facts-everyone-should-know%2F&media=https://imaginableworld.com/wp-content/uploads/2020/07/apple-logo-secrets.jpg&description=Interesting+iOS+Stats+With+18%25+market+share+and+combined+share+of+99.6%25+with+Android%2C+Apple’s+iOS+is+one+of+the+most+happening+operating+systems+of+the+world.+When+it+comes+to+using+a+mobile+device%2C+these+are+the+two+options%26hellip%3B
+File Name: C:\Downloaded Web Sites\imaginableworld.com\pin\create\button\index-14.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/category/ios/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\category\ios\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/wp-content/uploads/essential-addons-elementor/cb70d11b8.min.js?ver=1608213324
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\essential-addons-elementor\cb70d11b8.min-2.js
+Content Type: application/javascript
+
+Uri: https://imaginableworld.com/shop/page/2/?products-per-page=12
+File Name: C:\Downloaded Web Sites\imaginableworld.com\shop\page\2\index-1.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product/anatomy-physiology/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product\anatomy-physiology\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Fproduct%2Fanatomy-physiology%2F
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-20.json
+Content Type: application/json
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Fproduct%2Fanatomy-physiology%2F&format=xml
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-20.xml
+Content Type: text/xml
+
+Uri: https://www.pinterest.com/pin/create/button/?url=https:%2F%2Fimaginableworld.com%2Fproduct%2Fanatomy-physiology%2F&media=https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-30-в-9.46.21-AM.png&description=Anatomy %26%23038%3B Physiology
+File Name: C:\Downloaded Web Sites\imaginableworld.com\pin\create\button\index-15.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-29-в-2.08.39-AM-150x150.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-29-в-2.08.39-AM-150x150.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/product/hitman-go-for-ipad-iphone-appletv/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product\hitman-go-for-ipad-iphone-appletv\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Fproduct%2Fhitman-go-for-ipad-iphone-appletv%2F
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-21.json
+Content Type: application/json
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Fproduct%2Fhitman-go-for-ipad-iphone-appletv%2F&format=xml
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-21.xml
+Content Type: text/xml
+
+Uri: https://www.pinterest.com/pin/create/button/?url=https:%2F%2Fimaginableworld.com%2Fproduct%2Fhitman-go-for-ipad-iphone-appletv%2F&media=https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-30-в-9.57.59-AM.png&description=Hitman GO for Ipad%2C Iphone %26%23038%3B AppleTV
+File Name: C:\Downloaded Web Sites\imaginableworld.com\pin\create\button\index-16.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product/human-anatomy-atlas-2021-for-ipad-iphone/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product\human-anatomy-atlas-2021-for-ipad-iphone\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Fproduct%2Fhuman-anatomy-atlas-2021-for-ipad-iphone%2F
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-22.json
+Content Type: application/json
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Fproduct%2Fhuman-anatomy-atlas-2021-for-ipad-iphone%2F&format=xml
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-22.xml
+Content Type: text/xml
+
+Uri: https://www.pinterest.com/pin/create/button/?url=https:%2F%2Fimaginableworld.com%2Fproduct%2Fhuman-anatomy-atlas-2021-for-ipad-iphone%2F&media=https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-29-в-2.08.39-AM.png&description=Human Anatomy Atlas 2021 for Ipad %26%23038%3B Iphone
+File Name: C:\Downloaded Web Sites\imaginableworld.com\pin\create\button\index-17.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-30-в-9.46.21-AM-100x100.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-30-в-9.46.21-AM-100x100.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-29-в-2.01.21-AM-100x100.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-29-в-2.01.21-AM-100x100.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-30-в-9.46.21-AM-150x150.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-30-в-9.46.21-AM-150x150.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-29-в-2.01.21-AM-150x150.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\uploads\2020\07\Снимок-экрана-2020-07-29-в-2.01.21-AM-150x150.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/product/netflix-monthly-subscription-cheap/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product\netflix-monthly-subscription-cheap\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Fproduct%2Fnetflix-monthly-subscription-cheap%2F
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-23.json
+Content Type: application/json
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Fproduct%2Fnetflix-monthly-subscription-cheap%2F&format=xml
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-23.xml
+Content Type: text/xml
+
+Uri: https://www.pinterest.com/pin/create/button/?url=https:%2F%2Fimaginableworld.com%2Fproduct%2Fnetflix-monthly-subscription-cheap%2F&media=https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-30-в-9.32.35-AM.png&description=Netflix monthly Subscription| CHEAP
+File Name: C:\Downloaded Web Sites\imaginableworld.com\pin\create\button\index-18.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product/notability-for-iphone-ipad/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product\notability-for-iphone-ipad\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Fproduct%2Fnotability-for-iphone-ipad%2F
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-24.json
+Content Type: application/json
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Fproduct%2Fnotability-for-iphone-ipad%2F&format=xml
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-24.xml
+Content Type: text/xml
+
+Uri: https://www.pinterest.com/pin/create/button/?url=https:%2F%2Fimaginableworld.com%2Fproduct%2Fnotability-for-iphone-ipad%2F&media=https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-29-в-2.01.21-AM.png&description=Notability for Iphone %26%23038%3B Ipad
+File Name: C:\Downloaded Web Sites\imaginableworld.com\pin\create\button\index-19.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-tag/ipad/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-tag\ipad\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/product-tag/ipad/?products-per-page=12
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-tag\ipad\index-1.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-tag/ipad/?products-per-page=24
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-tag\ipad\index-2.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-tag/ipad/?products-per-page=all
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-tag\ipad\index-3.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-tag/ipad/page/2/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-tag\ipad\page\2\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-tag/iphone/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-tag\iphone\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/product-tag/iphone/?products-per-page=12
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-tag\iphone\index-1.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-tag/iphone/?products-per-page=24
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-tag\iphone\index-2.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-tag/iphone/?products-per-page=all
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-tag\iphone\index-3.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-tag/iphone/page/2/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-tag\iphone\page\2\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-tag/subscription/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-tag\subscription\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/product-tag/subscription/?products-per-page=12
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-tag\subscription\index-1.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-tag/subscription/?products-per-page=24
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-tag\subscription\index-2.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-tag/subscription/?products-per-page=all
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-tag\subscription\index-3.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-category/business/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-category\business\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/product-category/design/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-category\design\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/product-category/design/?products-per-page=12
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-category\design\index-1.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-category/design/?products-per-page=24
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-category\design\index-2.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-category/design/?products-per-page=all
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-category\design\index-3.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-category/educational/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-category\educational\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/product-category/educational/?products-per-page=12
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-category\educational\index-1.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-category/educational/?products-per-page=24
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-category\educational\index-2.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-category/educational/?products-per-page=all
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-category\educational\index-3.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-category/games/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-category\games\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/product-category/games/?products-per-page=12
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-category\games\index-1.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-category/games/?products-per-page=24
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-category\games\index-2.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-category/games/?products-per-page=all
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-category\games\index-3.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-category/ios/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-category\ios\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/product-category/ios/?products-per-page=12
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-category\ios\index-1.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-category/ios/?products-per-page=24
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-category\ios\index-2.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-category/ios/?products-per-page=all
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-category\ios\index-3.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-category/medical/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-category\medical\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/product-category/medical/?products-per-page=12
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-category\medical\index-1.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-category/medical/?products-per-page=24
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-category\medical\index-2.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-category/medical/?products-per-page=all
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-category\medical\index-3.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-category/music/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-category\music\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/product-category/music/?products-per-page=12
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-category\music\index-1.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-category/music/?products-per-page=24
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-category\music\index-2.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-category/music/?products-per-page=all
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-category\music\index-3.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-category/netflix/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-category\netflix\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/product-category/netflix/?products-per-page=12
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-category\netflix\index-1.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-category/netflix/?products-per-page=24
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-category\netflix\index-2.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-category/netflix/?products-per-page=all
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-category\netflix\index-3.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-category/productivity/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-category\productivity\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/product-category/productivity/?products-per-page=12
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-category\productivity\index-1.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-category/productivity/?products-per-page=24
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-category\productivity\index-2.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-category/productivity/?products-per-page=all
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-category\productivity\index-3.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-category/uncategorized/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-category\uncategorized\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/product-category/uncategorized/?products-per-page=12
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-category\uncategorized\index-1.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-category/uncategorized/?products-per-page=24
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-category\uncategorized\index-2.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-category/uncategorized/?products-per-page=all
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-category\uncategorized\index-3.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/accounts/login/?next=/theimaginableworld/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\accounts\login\index.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.png
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.png
+Content Type: image/png
+
+Uri: https://imaginableworld.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.svg
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.svg
+Content Type: image/svg+xml
+
+Uri: https://imaginableworld.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/preloader.gif
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\preloader.gif
+Content Type: image/gif
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fimaginableworld.com%252Fproduct%252Fsheet-music-apps%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=ru_RU&_rdr
+File Name: C:\Downloaded Web Sites\imaginableworld.com\login.php.xhtml
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fimaginableworld.com%252Fproduct%252Fchemist-by-thix%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=ru_RU&_rdr
+File Name: C:\Downloaded Web Sites\imaginableworld.com\login.php-1.xhtml
+Content Type: application/xhtml+xml
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Fproduct%2Fdigital-product-4%2F
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-25.json
+Content Type: application/json
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Fproduct%2Fdigital-product-4%2F&format=xml
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-25.xml
+Content Type: text/xml
+
+Uri: https://www.pinterest.com/pin/create/button/?url=https:%2F%2Fimaginableworld.com%2Fproduct%2Fdigital-product-4%2F&media=https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-29-в-1.57.07-AM.png&description=Procreate for Ipad
+File Name: C:\Downloaded Web Sites\imaginableworld.com\pin\create\button\index-20.htm
+Content Type: text/html
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fimaginableworld.com%252Fproduct%252Fpoly-bridge%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=ru_RU&_rdr
+File Name: C:\Downloaded Web Sites\imaginableworld.com\login.php-2.xhtml
+Content Type: application/xhtml+xml
+
+Uri: https://imaginableworld.com/product/spotify-premium-subscription/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product\spotify-premium-subscription\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Fproduct%2Fspotify-premium-subscription%2F
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-26.json
+Content Type: application/json
+
+Uri: https://imaginableworld.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fimaginableworld.com%2Fproduct%2Fspotify-premium-subscription%2F&format=xml
+File Name: C:\Downloaded Web Sites\imaginableworld.com\wp-json\oembed\1.0\embed-26.xml
+Content Type: text/xml
+
+Uri: https://www.pinterest.com/pin/create/button/?url=https:%2F%2Fimaginableworld.com%2Fproduct%2Fspotify-premium-subscription%2F&media=https://imaginableworld.com/wp-content/uploads/2020/07/Снимок-экрана-2020-07-30-в-9.39.25-AM.png&description=Spotify Premium Subscription
+File Name: C:\Downloaded Web Sites\imaginableworld.com\pin\create\button\index-21.htm
+Content Type: text/html
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fimaginableworld.com%252Fproduct%252Ffl-studio-mobile-for-iphone-ipad%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=ru_RU&_rdr
+File Name: C:\Downloaded Web Sites\imaginableworld.com\login.php-3.xhtml
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fimaginableworld.com%252Fproduct%252Fagent-a-a-puzzle-in-disguise%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=ru_RU&_rdr
+File Name: C:\Downloaded Web Sites\imaginableworld.com\login.php-4.xhtml
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fimaginableworld.com%252Fproduct%252Fkingdom-rush-vengeance%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=ru_RU&_rdr
+File Name: C:\Downloaded Web Sites\imaginableworld.com\login.php-5.xhtml
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fimaginableworld.com%252Fproduct%252Fdigital-product-1%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=ru_RU&_rdr
+File Name: C:\Downloaded Web Sites\imaginableworld.com\login.php-6.xhtml
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fimaginableworld.com%252Fproduct%252Fdigital-product-3%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=ru_RU&_rdr
+File Name: C:\Downloaded Web Sites\imaginableworld.com\login.php-7.xhtml
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fimaginableworld.com%252Fproduct%252Fdigital-product-2%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=ru_RU&_rdr
+File Name: C:\Downloaded Web Sites\imaginableworld.com\login.php-8.xhtml
+Content Type: application/xhtml+xml
+
+Uri: https://www.tomsguide.com/reviews/microsoft-surface-duo
+File Name: C:\Downloaded Web Sites\imaginableworld.com\reviews\microsoft-surface-duo.html
+Content Type: text/html
+
+Uri: https://imaginableworld.com/tag/surface-neo/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\tag\surface-neo\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/tag/windows/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\tag\windows\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fimaginableworld.com%252Fmicrosoft-surface-neo-could-be-very-far-away-and-thats-not-good%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=ru_RU&_rdr
+File Name: C:\Downloaded Web Sites\imaginableworld.com\login.php-9.xhtml
+Content Type: application/xhtml+xml
+
+Uri: https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttps://imaginableworld.com/microsoft-surface-neo-could-be-very-far-away-and-thats-not-good/&followup=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttps://imaginableworld.com/microsoft-surface-neo-could-be-very-far-away-and-thats-not-good/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\ServiceLogin.html
+Content Type: text/html
+
+Uri: https://www.reddit.com/login/?dest=https:%2F%2Fwww.reddit.com%2Fsubmit%3Furl%3Dhttps%253A%252F%252Fimaginableworld.com%252Fmicrosoft-surface-neo-could-be-very-far-away-and-thats-not-good%252F%26title%3DMicrosoft%2BSurface%2BNeo%2Bcould%2Bbe%2Bvery%2Bfar%2Baway%2B%25E2%2580%2594%2Band%2Bthat%2526%25238217%253Bs%2Bnot%2Bgood
+File Name: C:\Downloaded Web Sites\imaginableworld.com\login\index.htm
+Content Type: text/html
+
+Uri: https://www.tumblr.com/login?redirect_to=https:%2F%2Fwww.tumblr.com%2Fwidgets%2Fshare%2Ftool%3FcanonicalUrl%3Dhttps%253A%252F%252Fimaginableworld.com%252Fmicrosoft-surface-neo-could-be-very-far-away-and-thats-not-good%252F
+File Name: C:\Downloaded Web Sites\imaginableworld.com\login.html
+Content Type: text/html
+
+Uri: https://imaginableworld.com/tag/catalan/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\tag\catalan\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/tag/el-pais/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\tag\el-pais\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/tag/whatsapphack/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\tag\whatsapphack\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fimaginableworld.com%252Fwhatsapp-hack-targets-prominent-politician-what-you-need-to-know%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=ru_RU&_rdr
+File Name: C:\Downloaded Web Sites\imaginableworld.com\login.php-10.xhtml
+Content Type: application/xhtml+xml
+
+Uri: https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttps://imaginableworld.com/whatsapp-hack-targets-prominent-politician-what-you-need-to-know/&followup=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttps://imaginableworld.com/whatsapp-hack-targets-prominent-politician-what-you-need-to-know/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\ServiceLogin-1.html
+Content Type: text/html
+
+Uri: https://www.reddit.com/login/?dest=https:%2F%2Fwww.reddit.com%2Fsubmit%3Furl%3Dhttps%253A%252F%252Fimaginableworld.com%252Fwhatsapp-hack-targets-prominent-politician-what-you-need-to-know%252F%26title%3DWhatsApp%2Bhack%2Btargets%2Bprominent%2Bpolitician%2B%2526%25238211%253B%2Bwhat%2Byou%2Bneed%2Bto%2Bknow
+File Name: C:\Downloaded Web Sites\imaginableworld.com\login\index-1.htm
+Content Type: text/html
+
+Uri: https://www.tumblr.com/login?redirect_to=https:%2F%2Fwww.tumblr.com%2Fwidgets%2Fshare%2Ftool%3FcanonicalUrl%3Dhttps%253A%252F%252Fimaginableworld.com%252Fwhatsapp-hack-targets-prominent-politician-what-you-need-to-know%252F
+File Name: C:\Downloaded Web Sites\imaginableworld.com\login-1.html
+Content Type: text/html
+
+Uri: https://imaginableworld.com/tag/google/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\tag\google\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/tag/pixel4a/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\tag\pixel4a\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fimaginableworld.com%252Fgoogle-pixel-4a-release-date-100-confirmed-heres-when-its-finally-coming%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=ru_RU&_rdr
+File Name: C:\Downloaded Web Sites\imaginableworld.com\login.php-11.xhtml
+Content Type: application/xhtml+xml
+
+Uri: https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttps://imaginableworld.com/google-pixel-4a-release-date-100-confirmed-heres-when-its-finally-coming/&followup=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttps://imaginableworld.com/google-pixel-4a-release-date-100-confirmed-heres-when-its-finally-coming/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\ServiceLogin-2.html
+Content Type: text/html
+
+Uri: https://www.reddit.com/login/?dest=https:%2F%2Fwww.reddit.com%2Fsubmit%3Furl%3Dhttps%253A%252F%252Fimaginableworld.com%252Fgoogle-pixel-4a-release-date-100-confirmed-heres-when-its-finally-coming%252F%26title%3DGoogle%2BPixel%2B4a%2Brelease%2Bdate%2B%2526%25238216%253B100%2525%2526%25238217%253B%2Bconfirmed%2B%25E2%2580%2594%2Bhere%2526%25238217%253Bs%2Bwhen%2Bit%2526%25238217%253Bs%2Bfinally%2Bcoming
+File Name: C:\Downloaded Web Sites\imaginableworld.com\login\index-2.htm
+Content Type: text/html
+
+Uri: https://www.tumblr.com/login?redirect_to=https:%2F%2Fwww.tumblr.com%2Fwidgets%2Fshare%2Ftool%3FcanonicalUrl%3Dhttps%253A%252F%252Fimaginableworld.com%252Fgoogle-pixel-4a-release-date-100-confirmed-heres-when-its-finally-coming%252F
+File Name: C:\Downloaded Web Sites\imaginableworld.com\login-2.html
+Content Type: text/html
+
+Uri: https://imaginableworld.com/tag/android/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\tag\android\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/tag/quickcharging/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\tag\quickcharging\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fimaginableworld.com%252Fforget-the-iphone-12-android-phones-will-soon-fully-charge-in-15-minutes%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=ru_RU&_rdr
+File Name: C:\Downloaded Web Sites\imaginableworld.com\login.php-12.xhtml
+Content Type: application/xhtml+xml
+
+Uri: https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttps://imaginableworld.com/forget-the-iphone-12-android-phones-will-soon-fully-charge-in-15-minutes/&followup=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttps://imaginableworld.com/forget-the-iphone-12-android-phones-will-soon-fully-charge-in-15-minutes/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\ServiceLogin-3.html
+Content Type: text/html
+
+Uri: https://www.reddit.com/login/?dest=https:%2F%2Fwww.reddit.com%2Fsubmit%3Furl%3Dhttps%253A%252F%252Fimaginableworld.com%252Fforget-the-iphone-12-android-phones-will-soon-fully-charge-in-15-minutes%252F%26title%3DForget%2Bthe%2BiPhone%2B12%253A%2BAndroid%2Bphones%2Bwill%2Bsoon%2Bfully%2Bcharge%2Bin%2B15%2Bminutes
+File Name: C:\Downloaded Web Sites\imaginableworld.com\login\index-3.htm
+Content Type: text/html
+
+Uri: https://www.tumblr.com/login?redirect_to=https:%2F%2Fwww.tumblr.com%2Fwidgets%2Fshare%2Ftool%3FcanonicalUrl%3Dhttps%253A%252F%252Fimaginableworld.com%252Fforget-the-iphone-12-android-phones-will-soon-fully-charge-in-15-minutes%252F
+File Name: C:\Downloaded Web Sites\imaginableworld.com\login-3.html
+Content Type: text/html
+
+Uri: https://imaginableworld.com/tag/ai/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\tag\ai\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/tag/apps/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\tag\apps\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fimaginableworld.com%252Fhow-can-ai-and-ml-help-you-build-trending-mobile-applications%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=ru_RU&_rdr
+File Name: C:\Downloaded Web Sites\imaginableworld.com\login.php-13.xhtml
+Content Type: application/xhtml+xml
+
+Uri: https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttps://imaginableworld.com/how-can-ai-and-ml-help-you-build-trending-mobile-applications/&followup=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttps://imaginableworld.com/how-can-ai-and-ml-help-you-build-trending-mobile-applications/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\ServiceLogin-4.html
+Content Type: text/html
+
+Uri: https://www.reddit.com/login/?dest=https:%2F%2Fwww.reddit.com%2Fsubmit%3Furl%3Dhttps%253A%252F%252Fimaginableworld.com%252Fhow-can-ai-and-ml-help-you-build-trending-mobile-applications%252F%26title%3DHow%2BCan%2BAI%2BAnd%2BML%2BHelp%2BYou%2BBuild%2BTrending%2BMobile%2BApplications
+File Name: C:\Downloaded Web Sites\imaginableworld.com\login\index-4.htm
+Content Type: text/html
+
+Uri: https://www.tumblr.com/login?redirect_to=https:%2F%2Fwww.tumblr.com%2Fwidgets%2Fshare%2Ftool%3FcanonicalUrl%3Dhttps%253A%252F%252Fimaginableworld.com%252Fhow-can-ai-and-ml-help-you-build-trending-mobile-applications%252F
+File Name: C:\Downloaded Web Sites\imaginableworld.com\login-4.html
+Content Type: text/html
+
+Uri: https://imaginableworld.com/tag/apple-hacks/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\tag\apple-hacks\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://imaginableworld.com/tag/ios-apps/feed/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\tag\ios-apps\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fimaginableworld.com%252F7-ios-facts-everyone-should-know%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=ru_RU&_rdr
+File Name: C:\Downloaded Web Sites\imaginableworld.com\login.php-14.xhtml
+Content Type: application/xhtml+xml
+
+Uri: https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttps://imaginableworld.com/7-ios-facts-everyone-should-know/&followup=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttps://imaginableworld.com/7-ios-facts-everyone-should-know/
+File Name: C:\Downloaded Web Sites\imaginableworld.com\ServiceLogin-5.html
+Content Type: text/html
+
+Uri: https://www.reddit.com/login/?dest=https:%2F%2Fwww.reddit.com%2Fsubmit%3Furl%3Dhttps%253A%252F%252Fimaginableworld.com%252F7-ios-facts-everyone-should-know%252F%26title%3D7%2BiOS%2BFacts%2BEveryone%2BShould%2BKnow
+File Name: C:\Downloaded Web Sites\imaginableworld.com\login\index-5.htm
+Content Type: text/html
+
+Uri: https://www.tumblr.com/login?redirect_to=https:%2F%2Fwww.tumblr.com%2Fwidgets%2Fshare%2Ftool%3FcanonicalUrl%3Dhttps%253A%252F%252Fimaginableworld.com%252F7-ios-facts-everyone-should-know%252F
+File Name: C:\Downloaded Web Sites\imaginableworld.com\login-5.html
+Content Type: text/html
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fimaginableworld.com%252Fproduct%252Fanatomy-physiology%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=ru_RU&_rdr
+File Name: C:\Downloaded Web Sites\imaginableworld.com\login.php-15.xhtml
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fimaginableworld.com%252Fproduct%252Fhitman-go-for-ipad-iphone-appletv%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=ru_RU&_rdr
+File Name: C:\Downloaded Web Sites\imaginableworld.com\login.php-16.xhtml
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fimaginableworld.com%252Fproduct%252Fhuman-anatomy-atlas-2021-for-ipad-iphone%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=ru_RU&_rdr
+File Name: C:\Downloaded Web Sites\imaginableworld.com\login.php-17.xhtml
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fimaginableworld.com%252Fproduct%252Fnetflix-monthly-subscription-cheap%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=ru_RU&_rdr
+File Name: C:\Downloaded Web Sites\imaginableworld.com\login.php-18.xhtml
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fimaginableworld.com%252Fproduct%252Fnotability-for-iphone-ipad%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=ru_RU&_rdr
+File Name: C:\Downloaded Web Sites\imaginableworld.com\login.php-19.xhtml
+Content Type: application/xhtml+xml
+
+Uri: https://imaginableworld.com/product-tag/ipad/page/2/?products-per-page=12
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-tag\ipad\page\2\index-1.htm
+Content Type: text/html
+
+Uri: https://imaginableworld.com/product-tag/iphone/page/2/?products-per-page=12
+File Name: C:\Downloaded Web Sites\imaginableworld.com\product-tag\iphone\page\2\index-1.htm
+Content Type: text/html
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fimaginableworld.com%252Fproduct%252Fdigital-product-4%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=ru_RU&_rdr
+File Name: C:\Downloaded Web Sites\imaginableworld.com\login.php-20.xhtml
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fimaginableworld.com%252Fproduct%252Fspotify-premium-subscription%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=ru_RU&_rdr
+File Name: C:\Downloaded Web Sites\imaginableworld.com\login.php-21.xhtml
+Content Type: application/xhtml+xml
+

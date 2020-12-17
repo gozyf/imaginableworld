@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>APPS &#8211; Imaginable World</title>
+	<atom:link href="https://imaginableworld.com/tag/apps/feed/" rel="self" type="application/rss+xml" />
+	<link>https://imaginableworld.com</link>
+	<description>The marketplace of cheap Apps &#38; Games</description>
+	<lastBuildDate>Tue, 28 Jul 2020 18:39:41 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.4</generator>
+
+<image>
+	<url>https://imaginableworld.com/wp-content/uploads/2020/07/cropped-icon-32x32.gif</url>
+	<title>APPS &#8211; Imaginable World</title>
+	<link>https://imaginableworld.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How Can AI And ML Help You Build Trending Mobile Applications</title>
+		<link>https://imaginableworld.com/how-can-ai-and-ml-help-you-build-trending-mobile-applications/</link>
+					<comments>https://imaginableworld.com/how-can-ai-and-ml-help-you-build-trending-mobile-applications/#respond</comments>
+		
+		<dc:creator><![CDATA[imaginableworld_admin]]></dc:creator>
+		<pubDate>Tue, 28 Jul 2020 18:39:40 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[APPS]]></category>
+		<guid isPermaLink="false">https://imaginableworld.com/?p=183</guid>
+
+					<description><![CDATA[Enough has been spoken and heard about artificial intelligence and machine learning. Most of us are aware of these technological jargons. We are in a world where we must have come across these technologies on a daily basis, but little do we know deeper about it. From tech to voice to face enabled devices, we all have witnessed [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Enough has been spoken and heard about artificial intelligence and machine learning. Most of us are aware of these technological jargons. We are in a world where we must have come across these technologies on a daily basis, but little do we know deeper about it. From tech to voice to face enabled devices, we all have witnessed a dramatic evolution of technology in the last decade. It did not only contribute towards the transformation of the internet and software industry, but also the lives of individuals – you, me, and us!</p>
+
+
+
+<p>Technologies related to AI and ML are expected to grow in the years to come. Even many social media platforms are today investing an ample amount of money in the development of AI techniques to keep their audiences hooked to the platform. Over-viewing the mobile app industry, it is not a hidden fact that today most of the mobile applications are built on AI and ML technologies. Today, we have mobile applications for all our activities – shopping to dating, food to fashion, traveling to surfing, etc.</p>
+
+
+
+<p>According to a report by&nbsp;<a href="https://www.statista.com/statistics/607716/worldwide-artificial-intelligence-market-revenues/"><u>Statista</u></a>, the global artificial intelligence market is expected to grow greatly by generating 118.6 billion revenue in 2025. Viewing that, the future of AI and ML technology looks very promising. Therefore, it is a great time to incorporate some AL and ML techniques in your mobile application. Let us look at how two of the leading the AI and ML techniques can help build a trending mobile application:</p>
+
+
+
+<p><strong>Predict User Behaviour&nbsp;</strong></p>
+
+
+
+<p>You must have used Amazon or Myntra. Did you get what we are hinting at?</p>
+
+
+
+<p>Yes, those suggestions, recommendations, and notifications. They provide you with the most similar products you are looking for. How do you think this happens? Is there is a fairy in the app? Yes, there is and she exactly knows – what you are looking for, what you like and what you don’t, what excites you and what makes you add the items in the cart. Well, no points for guessing, she is AI and ML.</p>
+
+
+
+<p>AI and ML mobile applications developed by top AI and ML app developers help the businesses and their marketing teams to understand customer behaviour and psychology. The insights drawn provides information on customer choices, preferences, buying patterns, and budgets by capturing data such as age, location, gender, buying frequency, spending capacity, etc. It is the perfect integration of in-depth data learning and observing the user behaviour across all devices that help create a 360<sup>o</sup>&nbsp;view on customers. The data so collected enables the brands to approach each customer group and deliver products that perfectly fit their individual needs.</p>
+
+
+
+<p><strong>Virtual Assistants&nbsp;</strong></p>
+
+
+
+<p>Hey Siri! “Go on, I am listening” – Siri (Well, there’s someone ‘listening’)</p>
+
+
+
+<p>That is how we connect with our smartphones these days, don’t we? Siri, Alexa, and Google, all are changing the digital way of communication with our phones and mobile applications. The technology helps you use your phone or a mobile application while you are performing some other task. It has made the user experience much seamless and fruitful.</p>
+
+
+
+<p>This technology has further strengthened the trend of online shopping. Today, 95% of online shopping in the world is made through voice commands and that shouldn’t be a surprise. Industry to industry, virtual assistants are greatly impacting and disrupting the way consumers purchase and retailers sell/market.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://imaginableworld.com/how-can-ai-and-ml-help-you-build-trending-mobile-applications/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
