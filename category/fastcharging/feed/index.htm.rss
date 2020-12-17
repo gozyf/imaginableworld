@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>FastCharging &#8211; Imaginable World</title>
+	<atom:link href="https://imaginableworld.com/category/fastcharging/feed/" rel="self" type="application/rss+xml" />
+	<link>https://imaginableworld.com</link>
+	<description>The marketplace of cheap Apps &#38; Games</description>
+	<lastBuildDate>Tue, 28 Jul 2020 21:02:47 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.4</generator>
+
+<image>
+	<url>https://imaginableworld.com/wp-content/uploads/2020/07/cropped-icon-32x32.gif</url>
+	<title>FastCharging &#8211; Imaginable World</title>
+	<link>https://imaginableworld.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Forget the iPhone 12: Android phones will soon fully charge in 15 minutes</title>
+		<link>https://imaginableworld.com/forget-the-iphone-12-android-phones-will-soon-fully-charge-in-15-minutes/</link>
+					<comments>https://imaginableworld.com/forget-the-iphone-12-android-phones-will-soon-fully-charge-in-15-minutes/#respond</comments>
+		
+		<dc:creator><![CDATA[imaginableworld_admin]]></dc:creator>
+		<pubDate>Tue, 28 Jul 2020 21:02:45 +0000</pubDate>
+				<category><![CDATA[FastCharging]]></category>
+		<category><![CDATA[android]]></category>
+		<category><![CDATA[quickcharging]]></category>
+		<guid isPermaLink="false">https://imaginableworld.com/?p=186</guid>
+
+					<description><![CDATA[Qualcomm&#8217;s Quick Charge 5 can also power a phone up to 50% in 5 minutes. Future smartphones are about to charge a lot faster, thanks to an updated version of Qualcomm&#8217;s Quick Charge technology. And the iPhone 12 could look pretty slow by comparison. Unveiled today (July 27), Quick Charge 5 promises to get your drained Android phone from [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Qualcomm&#8217;s Quick Charge 5 can also power a phone up to 50% in 5 minutes.</p>
+
+
+
+<p>Future smartphones are about to charge a lot faster, thanks to an updated version of Qualcomm&#8217;s Quick Charge technology. And the iPhone 12 could look pretty slow by comparison.</p>
+
+
+
+<p>Unveiled today (July 27), Quick Charge 5 promises to get your drained Android phone from 0% to 50% battery power after 5 minutes of charging and fully charge in 15 minutes. It&#8217;s the first fast-charging platform capable of supporting more than 100 watts of charging power, Qualcomm says.</p>
+
+
+
+<p>By comparison, the iPhone 12 is expected to support a &#8220;fast&#8221; 20W charger, and rumor has it that Apple will not include this charger in the box.</p>
+
+
+
+<p>Qualcomm&#8217;s numbers make Quick Charge 5 up to 70% more efficient than Quick Charge 4, the fast-charging technology it replaces. It&#8217;s also 4x faster than its predecessor when using standard USB-C cables.</p>
+
+
+
+<p>Qualcomm expects Quick Charge 5 to wind up in devices this quarter, and it&#8217;s currently supported by the chip maker&#8217;s Snapdragon 865 and 865 Plus chipsets. Expect Quick Charge 5 to eventually work its way down to other chipsets in Qualcomm&#8217;s 7 and 6 series.&nbsp;</p>
+
+
+
+<p>Typically, Qualcomm defers to phone makers on announcing support for its chips and technology, and that&#8217;s holding true with Quick Charge 5. However, Xiaomi said that the new fast charging technology will work its way into future devices from the Chinese phone maker.</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://imaginableworld.com/wp-content/uploads/2020/07/82XKNCwYdbopHzrKzYVrEa-970-80.jpeg" alt="" class="wp-image-187" srcset="https://imaginableworld.com/wp-content/uploads/2020/07/82XKNCwYdbopHzrKzYVrEa-970-80.jpeg 970w, https://imaginableworld.com/wp-content/uploads/2020/07/82XKNCwYdbopHzrKzYVrEa-970-80-300x225.jpeg 300w, https://imaginableworld.com/wp-content/uploads/2020/07/82XKNCwYdbopHzrKzYVrEa-970-80-768x576.jpeg 768w, https://imaginableworld.com/wp-content/uploads/2020/07/82XKNCwYdbopHzrKzYVrEa-970-80-750x563.jpeg 750w" sizes="(max-width: 970px) 100vw, 970px" /></figure>
+
+
+
+<p>For some context on how quickly announced Qualcomm technologies can suddenly appear in phones, Qualcomm took the wraps off the Snapdragon 865 Plus system-on-chip on July 8. Two weeks later, Asus, Lenovo, and Samsung had all announced phones powered by the new chipset.</p>
+
+
+
+<p>In addition to faster charge times, Quick Charge 5 enhances dual charging technology by using different paths within the phone to charge batteries, dissipating heat, and improving efficiency. Quick Charge also features Battery Saver and adapter identification technology to smartly determine an adapter&#8217;s capacity; those features work together to extend a battery&#8217;s life cycle. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://imaginableworld.com/forget-the-iphone-12-android-phones-will-soon-fully-charge-in-15-minutes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Microsoft &#8211; Imaginable World</title>
+	<atom:link href="https://imaginableworld.com/category/microsoft/feed/" rel="self" type="application/rss+xml" />
+	<link>https://imaginableworld.com</link>
+	<description>The marketplace of cheap Apps &#38; Games</description>
+	<lastBuildDate>Thu, 30 Jul 2020 01:18:18 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.4</generator>
+
+<image>
+	<url>https://imaginableworld.com/wp-content/uploads/2020/07/cropped-icon-32x32.gif</url>
+	<title>Microsoft &#8211; Imaginable World</title>
+	<link>https://imaginableworld.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Microsoft Surface Neo could be very far away — and that&#8217;s not good</title>
+		<link>https://imaginableworld.com/microsoft-surface-neo-could-be-very-far-away-and-thats-not-good/</link>
+					<comments>https://imaginableworld.com/microsoft-surface-neo-could-be-very-far-away-and-thats-not-good/#respond</comments>
+		
+		<dc:creator><![CDATA[imaginableworld_admin]]></dc:creator>
+		<pubDate>Thu, 30 Jul 2020 01:18:18 +0000</pubDate>
+				<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Surface Neo]]></category>
+		<category><![CDATA[Windows]]></category>
+		<guid isPermaLink="false">https://imaginableworld.com/?p=201</guid>
+
+					<description><![CDATA[Microsoft has scrubbed all mention of Holiday 2020 from the Surface Neo&#8217;s website. If you were looking forward to getting your hands on Microsoft&#8217;s Surface Neo dual-screen, Windows 10X-powered tablet before the end of the year, we&#8217;ve got some bad news. Microsoft has scrubbed all mention of the Neo&#8217;s holiday 2020 launch from its website. [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Microsoft has scrubbed all mention of Holiday 2020 from the Surface Neo&#8217;s website.</p>
+
+
+
+<p>If you were looking forward to getting your hands on Microsoft&#8217;s Surface Neo dual-screen, Windows 10X-powered tablet before the end of the year, we&#8217;ve got some bad news. Microsoft has scrubbed all mention of the Neo&#8217;s holiday 2020 launch from its website.</p>
+
+
+
+<p>This comes after several months of rumors and sideways hints of the tablet&#8217;s delay. Last we heard, Panos Panay, Microsoft&#8217;s Chief Product Officer for Windows and devices, said in May that the company &#8220;will continue to look for the right moment, in conjunction with our OEM partners, to bring dual-screen devices to market.&#8221; That seemed to indicate that the Neo&#8217;s ETA was in flux, but the messaging on the website (or lack thereof) cements it.</p>
+
+
+
+<p>The discovery was made by Neowin and arrives to us via TechRadar. Text on the Surface Neo&#8217;s page, which used to end with the phrase &#8220;Coming Holiday 2020,&#8221; now suggests nothing about when interested consumers can expect the device. There is still a form at the bottom where visitors can register their interest for updates, but that&#8217;s it.</p>
+
+
+
+<p>Now, it&#8217;s worth pointing out that the <a href="https://www.tomsguide.com/news/microsoft-surface-duo">Surface Duo</a> — Microsoft&#8217;s dual-screen phone powered by Android — is still on track to ship before the end of the year. In fact, given that the phone is appearing in cryptic official videos and has just passed Bluetooth certification, it seems we could be mere weeks away from the Duo&#8217;s release.</p>
+
+
+
+<p>Microsoft will want to get the Surface Duo out the door as quickly as possible to head off the Samsung Galaxy Z Fold 2, which will likely be announced during Samsung&#8217;s August 5 Unpacked event.</p>
+
+
+
+<p>Of course, the Galaxy Z Fold 2 will incorporate a single flexible folding display as opposed to the traditional butterfly design of the Surface Duo. It&#8217;s going to be a dated look by comparison, but hopefully Microsoft will be able to use that to its advantage, and make the Duo cheaper than its competition.</p>
+
+
+
+<p>Meanwhile, Windows 10X will arrive on single-screen devices, like regular Surface tablets and notebooks first, sometime in 2021. There&#8217;s no word on how far off the Surface Neo is at this time; a recent report from ZDNet suggested the Neo might not reappear until spring 2022, which would be a crippling blow to Microsoft&#8217;s dual-screen ambitions. We certainly hope that&#8217;s not the case. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://imaginableworld.com/microsoft-surface-neo-could-be-very-far-away-and-thats-not-good/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
