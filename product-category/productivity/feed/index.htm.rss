@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Productivity &#8211; Imaginable World</title>
+	<atom:link href="https://imaginableworld.com/product-category/productivity/feed/" rel="self" type="application/rss+xml" />
+	<link>https://imaginableworld.com</link>
+	<description>The marketplace of cheap Apps &#38; Games</description>
+	<lastBuildDate>Tue, 28 Jul 2020 18:04:42 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.4</generator>
+
+<image>
+	<url>https://imaginableworld.com/wp-content/uploads/2020/07/cropped-icon-32x32.gif</url>
+	<title>Productivity &#8211; Imaginable World</title>
+	<link>https://imaginableworld.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Notability for Iphone &#038; Ipad</title>
+		<link>https://imaginableworld.com/product/notability-for-iphone-ipad/</link>
+					<comments>https://imaginableworld.com/product/notability-for-iphone-ipad/#respond</comments>
+		
+		<dc:creator><![CDATA[imaginableworld_admin]]></dc:creator>
+		<pubDate>Tue, 28 Jul 2020 18:04:42 +0000</pubDate>
+				<guid isPermaLink="false">https://imaginableworld.com/?post_type=product&#038;p=176</guid>
+
+					<description><![CDATA[<p dir="ltr" data-test-bidi="">Students, teachers, and business professionals use Notability daily to enrich their lives. It is uniquely designed for each device to provide the best note-taking experience at school, home, and work.</p>]]></description>
+										<content:encoded><![CDATA[<div>Notability for iPhone &amp; Ipad</div>
+<div class="information-list__item l-row">Size250.6 MB</div>
+<div class="information-list__item l-row">Compatibility</p>
+<div id="ember297" class="we-clamp ember-view" data-clamp="">
+<p dir="ltr" data-test-bidi="">Requires iOS 11.0 or later. Compatible with iPhone, iPad, and iPod touch.</p>
+</div>
+</div>
+<div class="information-list__item l-row">Languages</p>
+<div id="ember301" class="we-clamp ember-view" data-clamp="">
+<p dir="ltr" data-test-bidi="">English, Dutch, French, German, Italian, Japanese, Korean, Norwegian Bokmål, Portuguese, Russian, Simplified Chinese, Spanish, Thai, Traditional Chinese, Turkis</p>
+<p dir="ltr" data-test-bidi="">
+</div>
+</div>
+<div class="information-list__item l-row">Age Rating4+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://imaginableworld.com/product/notability-for-iphone-ipad/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

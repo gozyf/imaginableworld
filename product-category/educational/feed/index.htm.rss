@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Educational &#8211; Imaginable World</title>
+	<atom:link href="https://imaginableworld.com/product-category/educational/feed/" rel="self" type="application/rss+xml" />
+	<link>https://imaginableworld.com</link>
+	<description>The marketplace of cheap Apps &#38; Games</description>
+	<lastBuildDate>Thu, 30 Jul 2020 02:21:49 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.4</generator>
+
+<image>
+	<url>https://imaginableworld.com/wp-content/uploads/2020/07/cropped-icon-32x32.gif</url>
+	<title>Educational &#8211; Imaginable World</title>
+	<link>https://imaginableworld.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Sheet Music Apps</title>
+		<link>https://imaginableworld.com/product/sheet-music-apps/</link>
+					<comments>https://imaginableworld.com/product/sheet-music-apps/#respond</comments>
+		
+		<dc:creator><![CDATA[imaginableworld_admin]]></dc:creator>
+		<pubDate>Thu, 30 Jul 2020 02:21:49 +0000</pubDate>
+				<guid isPermaLink="false">https://imaginableworld.com/?post_type=product&#038;p=222</guid>
+
+					<description><![CDATA[Great sheet music notation apps on iOS. For any music lover, this app bundle gives you the ability to read, compose, edit, scan, playback scores and write lyrics. With it you can be a talented composer and great musician anywhere. As long as you have a little knowledge of sheet music, you can write music composition simply by touch and move. You could use it as your songbook or scoresheet. It is also designed for a beginner who wants to learn music score, music notes and tablature.]]></description>
+										<content:encoded><![CDATA[<p>Sheet Music Apps</p>
+<div class="information-list__item l-row">Size: 607.9 MB</div>
+<div class="information-list__item l-row">Compatibility: Requires iOS 9.0 or later. Compatible with iPhone, iPad, and iPod touch.</div>
+<div class="information-list__item l-row">Languages: English, Japanese, Korean, Simplified Chinese, Traditional Chinese</div>
+<div class="information-list__item l-row">Age Rating: 12+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://imaginableworld.com/product/sheet-music-apps/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>CHEMIST by THIX</title>
+		<link>https://imaginableworld.com/product/chemist-by-thix/</link>
+					<comments>https://imaginableworld.com/product/chemist-by-thix/#respond</comments>
+		
+		<dc:creator><![CDATA[imaginableworld_admin]]></dc:creator>
+		<pubDate>Thu, 30 Jul 2020 02:18:10 +0000</pubDate>
+				<guid isPermaLink="false">https://imaginableworld.com/?post_type=product&#038;p=220</guid>
+
+					<description><![CDATA[<p dir="ltr" data-test-bidi="">It’s your dream virtual chemistry lab.</p>
+<p dir="ltr" data-test-bidi="">Experiment with various lab equipment, procedures, and chemicals with complete freedom—no need to buy chemicals or clean up afterwards. Perfect for testing, exploring, learning, or just playing around.</p>]]></description>
+										<content:encoded><![CDATA[<p>CHEMIST by THIX</p>
+<div class="information-list__item l-row">Size: 38.5 MB</div>
+<div class="information-list__item l-row">Compatibility: Requires iOS 8.0 or later. Compatible with iPhone, iPad, and iPod touch.</div>
+<div class="information-list__item l-row">Languages: English, Dutch, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Swedish, Traditional Chinese</div>
+<div class="information-list__item l-row">Age Rating: 4+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://imaginableworld.com/product/chemist-by-thix/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

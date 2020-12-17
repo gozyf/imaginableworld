@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design &#8211; Imaginable World</title>
+	<atom:link href="https://imaginableworld.com/product-category/design/feed/" rel="self" type="application/rss+xml" />
+	<link>https://imaginableworld.com</link>
+	<description>The marketplace of cheap Apps &#38; Games</description>
+	<lastBuildDate>Tue, 28 Jul 2020 17:59:27 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.4</generator>
+
+<image>
+	<url>https://imaginableworld.com/wp-content/uploads/2020/07/cropped-icon-32x32.gif</url>
+	<title>Design &#8211; Imaginable World</title>
+	<link>https://imaginableworld.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Procreate for Ipad</title>
+		<link>https://imaginableworld.com/product/digital-product-4/</link>
+		
+		<dc:creator><![CDATA[imaginableworld_admin]]></dc:creator>
+		<pubDate>Mon, 27 Jul 2020 13:27:45 +0000</pubDate>
+				<guid isPermaLink="false">http://imaginableworld.com/?post_type=product&#038;p=100</guid>
+
+					<description><![CDATA[Loved by creative professionals and aspiring artists alike, Procreate is the leading creative application made for iPad.]]></description>
+										<content:encoded><![CDATA[<div>Procreate for Ipad</div>
+<div class="information-list__item l-row">Size 320.3 MB</div>
+<div class="information-list__item l-row">Compatibility</p>
+<div id="ember294" class="we-clamp ember-view" data-clamp="">
+<p dir="ltr" data-test-bidi="">Requires iOS 13.2 or later. Compatible with iPad.</p>
+</div>
+</div>
+<div class="information-list__item l-row">Languages</p>
+<div id="ember298" class="we-clamp ember-view" data-clamp="">
+<p dir="ltr" data-test-bidi="">English, Arabic, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese, Turkish</p>
+</div>
+</div>
+<div class="information-list__item l-row">Age Rating4+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
